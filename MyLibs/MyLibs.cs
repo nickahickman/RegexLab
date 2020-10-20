@@ -53,38 +53,4 @@ namespace MyLibs
             Console.WriteLine("=========================================================================");
         }
     }
-
-    public class GTKYC
-    {
-        public static void PrintAllStudents(string[,] students)
-        {
-            foreach (string student in students)
-            {
-                Console.WriteLine(student);
-                ConsoleLibrary.DrawSeparator();
-            }
-        }
-
-        public static string GetAllStudentProperties(string[] student)
-        {
-            string studentInfo = "";
-
-            for (int i = 0; i < student.Length; i++)
-            {
-                if (i == 0)
-                {
-                    studentInfo += $"Name: {student[0]}";
-                }
-                else if (i == 1)
-                {
-                    studentInfo += $"Favorite food: {student[1]}";
-                }
-                else {
-                    studentInfo += $"Hometown: {student[2]}";
-                }
-            }
-
-            return studentInfo;
-        }
-    }
 }

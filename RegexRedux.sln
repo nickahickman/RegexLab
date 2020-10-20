@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RegexLab", "RegexRedux\Rege
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyLibs", "MyLibs\MyLibs.csproj", "{2F1BC6D9-AB74-4CF7-8E0A-5E8556F7280C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectLibrary", "ProjectLibrary\ProjectLibrary.csproj", "{410A57D7-7596-47C5-BB7B-8F29E1D6D79F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{2F1BC6D9-AB74-4CF7-8E0A-5E8556F7280C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2F1BC6D9-AB74-4CF7-8E0A-5E8556F7280C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2F1BC6D9-AB74-4CF7-8E0A-5E8556F7280C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{410A57D7-7596-47C5-BB7B-8F29E1D6D79F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{410A57D7-7596-47C5-BB7B-8F29E1D6D79F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{410A57D7-7596-47C5-BB7B-8F29E1D6D79F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{410A57D7-7596-47C5-BB7B-8F29E1D6D79F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

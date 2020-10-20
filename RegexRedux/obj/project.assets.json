@@ -11,6 +11,16 @@
         "runtime": {
           "bin/placeholder/MyLibs.dll": {}
         }
+      },
+      "ProjectLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/ProjectLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ProjectLibrary.dll": {}
+        }
       }
     }
   },
@@ -19,11 +29,17 @@
       "type": "project",
       "path": "../MyLibs/MyLibs.csproj",
       "msbuildProject": "../MyLibs/MyLibs.csproj"
+    },
+    "ProjectLibrary/1.0.0": {
+      "type": "project",
+      "path": "../ProjectLibrary/ProjectLibrary.csproj",
+      "msbuildProject": "../ProjectLibrary/ProjectLibrary.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "MyLibs >= 1.0.0"
+      "MyLibs >= 1.0.0",
+      "ProjectLibrary >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -54,6 +70,9 @@
           "projectReferences": {
             "C:\\Users\\HoboPrime\\Desktop\\grandCircus\\unit2\\RegexRedux\\MyLibs\\MyLibs.csproj": {
               "projectPath": "C:\\Users\\HoboPrime\\Desktop\\grandCircus\\unit2\\RegexRedux\\MyLibs\\MyLibs.csproj"
+            },
+            "C:\\Users\\HoboPrime\\Desktop\\grandCircus\\unit2\\RegexRedux\\ProjectLibrary\\ProjectLibrary.csproj": {
+              "projectPath": "C:\\Users\\HoboPrime\\Desktop\\grandCircus\\unit2\\RegexRedux\\ProjectLibrary\\ProjectLibrary.csproj"
             }
           }
         }

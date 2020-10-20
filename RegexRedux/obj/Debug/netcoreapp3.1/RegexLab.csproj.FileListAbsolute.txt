@@ -14,3 +14,5 @@ C:\Users\HoboPrime\Desktop\grandCircus\unit2\RegexRedux\RegexRedux\obj\Debug\net
 C:\Users\HoboPrime\Desktop\grandCircus\unit2\RegexRedux\RegexRedux\obj\Debug\netcoreapp3.1\RegexLab.dll
 C:\Users\HoboPrime\Desktop\grandCircus\unit2\RegexRedux\RegexRedux\obj\Debug\netcoreapp3.1\RegexLab.pdb
 C:\Users\HoboPrime\Desktop\grandCircus\unit2\RegexRedux\RegexRedux\obj\Debug\netcoreapp3.1\RegexLab.genruntimeconfig.cache
+C:\Users\HoboPrime\Desktop\grandCircus\unit2\RegexRedux\RegexRedux\bin\Debug\netcoreapp3.1\ProjectLibrary.dll
+C:\Users\HoboPrime\Desktop\grandCircus\unit2\RegexRedux\RegexRedux\bin\Debug\netcoreapp3.1\ProjectLibrary.pdb

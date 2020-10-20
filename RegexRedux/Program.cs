@@ -17,25 +17,25 @@ namespace RegexRedux
             while (true)
             {
                 userName = MyLibs.UserInputLibrary.GetUserResponse("What's your name? Must begin with a capital letter and be fewer than 30 characters");
-                while (!MyLibs.InputValidationLibrary.IsValidName(userName))
+                while (!ProjectLibrary.RegexLibrary.IsValidName(userName))
                 {
                     userName = MyLibs.UserInputLibrary.GetUserResponse("That's an invalid name, try again.");
                 }
 
                 userEmail = MyLibs.UserInputLibrary.GetUserResponse("What's your email address? ex: name@mail.co");
-                while (!MyLibs.InputValidationLibrary.IsValidEmail(userEmail))
+                while (!ProjectLibrary.RegexLibrary.IsValidEmail(userEmail))
                 {
                     userEmail = MyLibs.UserInputLibrary.GetUserResponse("That's an invalid email, try again. ex: name@mail.co");
                 }
 
                 userPhoneNumber = MyLibs.UserInputLibrary.GetUserResponse("What's your phone number? xxx-xxx-xxxx");
-                while (!MyLibs.InputValidationLibrary.IsValidPhoneNumber(userPhoneNumber))
+                while (!ProjectLibrary.RegexLibrary.IsValidPhoneNumber(userPhoneNumber))
                 {
                     userPhoneNumber = MyLibs.UserInputLibrary.GetUserResponse("That's an invalid phone number, try again.");
                 }
 
                 userDate = MyLibs.UserInputLibrary.GetUserResponse("What's your birthdate? dd/mm/yyyy");
-                while (!MyLibs.InputValidationLibrary.IsValidDate(userDate))
+                while (!ProjectLibrary.RegexLibrary.IsValidDate(userDate))
                 {
                     userDate = MyLibs.UserInputLibrary.GetUserResponse("That's an invalid date, try again. dd/mm/yyyy");
                 }
