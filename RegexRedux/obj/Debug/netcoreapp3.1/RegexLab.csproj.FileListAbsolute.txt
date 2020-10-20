@@ -1,0 +1,16 @@
+C:\Users\HoboPrime\Desktop\grandCircus\unit2\RegexRedux\RegexRedux\bin\Debug\netcoreapp3.1\RegexLab.exe
+C:\Users\HoboPrime\Desktop\grandCircus\unit2\RegexRedux\RegexRedux\bin\Debug\netcoreapp3.1\RegexLab.deps.json
+C:\Users\HoboPrime\Desktop\grandCircus\unit2\RegexRedux\RegexRedux\bin\Debug\netcoreapp3.1\RegexLab.runtimeconfig.json
+C:\Users\HoboPrime\Desktop\grandCircus\unit2\RegexRedux\RegexRedux\bin\Debug\netcoreapp3.1\RegexLab.runtimeconfig.dev.json
+C:\Users\HoboPrime\Desktop\grandCircus\unit2\RegexRedux\RegexRedux\bin\Debug\netcoreapp3.1\RegexLab.dll
+C:\Users\HoboPrime\Desktop\grandCircus\unit2\RegexRedux\RegexRedux\bin\Debug\netcoreapp3.1\RegexLab.pdb
+C:\Users\HoboPrime\Desktop\grandCircus\unit2\RegexRedux\RegexRedux\bin\Debug\netcoreapp3.1\MyLibs.dll
+C:\Users\HoboPrime\Desktop\grandCircus\unit2\RegexRedux\RegexRedux\bin\Debug\netcoreapp3.1\MyLibs.pdb
+C:\Users\HoboPrime\Desktop\grandCircus\unit2\RegexRedux\RegexRedux\obj\Debug\netcoreapp3.1\RegexLab.csprojAssemblyReference.cache
+C:\Users\HoboPrime\Desktop\grandCircus\unit2\RegexRedux\RegexRedux\obj\Debug\netcoreapp3.1\RegexLab.AssemblyInfoInputs.cache
+C:\Users\HoboPrime\Desktop\grandCircus\unit2\RegexRedux\RegexRedux\obj\Debug\netcoreapp3.1\RegexLab.AssemblyInfo.cs
+C:\Users\HoboPrime\Desktop\grandCircus\unit2\RegexRedux\RegexRedux\obj\Debug\netcoreapp3.1\RegexLab.csproj.CoreCompileInputs.cache
+C:\Users\HoboPrime\Desktop\grandCircus\unit2\RegexRedux\RegexRedux\obj\Debug\netcoreapp3.1\RegexLab.csproj.CopyComplete
+C:\Users\HoboPrime\Desktop\grandCircus\unit2\RegexRedux\RegexRedux\obj\Debug\netcoreapp3.1\RegexLab.dll
+C:\Users\HoboPrime\Desktop\grandCircus\unit2\RegexRedux\RegexRedux\obj\Debug\netcoreapp3.1\RegexLab.pdb
+C:\Users\HoboPrime\Desktop\grandCircus\unit2\RegexRedux\RegexRedux\obj\Debug\netcoreapp3.1\RegexLab.genruntimeconfig.cache

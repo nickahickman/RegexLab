@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "RegexLab/1.0.0": {
+        "dependencies": {
+          "MyLibs": "1.0.0"
+        },
+        "runtime": {
+          "RegexLab.dll": {}
+        }
+      },
+      "MyLibs/1.0.0": {
+        "runtime": {
+          "MyLibs.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RegexLab/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyLibs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
